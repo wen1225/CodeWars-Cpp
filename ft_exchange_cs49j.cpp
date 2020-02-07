@@ -8,7 +8,7 @@ Problem: Implement a function called exchange that takes in argument as an array
 Origin:  First quiz in CS49J class. Had the option to choose C, C++, or
 		 Python. 
 
-Notes:	 Can still be refactor to simplify logic.
+Notes:	 Can still be refactor to simplify logic. Failed some code tests too.
 
 Time to Solve: ~1 day. 1/27/20 - 1/28/20
 */
